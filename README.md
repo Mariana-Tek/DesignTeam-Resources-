@@ -1,6 +1,12 @@
-# Product Work
 
-##### Roadmap
+
+## Generel
+
+[Our Figma Filing Structure](https://docs.google.com/presentation/d/1Unp0XxH4z3DbfrRIMRdNbKEqVJhhRXQ2fp16k-oHUMU/edit?usp=sharing)
+
+
+
+# Products
 
 ## iOS App
 
@@ -56,3 +62,18 @@ Staging Link: Contact Dev team (Taylor for access to Test Flight)
 
 - [Jira Dev Board](https://marianatek.atlassian.net/secure/RapidBoard.jspa?rapidView=73&projectKey=CAPPS)
 
+
+## Research
+
+[Research Documentation](https://sites.google.com/marianatek.com/user-research/home?authuser=1)
+
+
+## Brand Materials
+
+[Google Deck Template](https://docs.google.com/presentation/d/1P_2IAsopGcN7COugRmLzEdIEe08BnOilX6pZprVAHOU/edit#slide=id.p)  (Not yet Fully Templatized)
+
+[Keynote Deck Template](https://www.dropbox.com/sh/64vvo1j6bku7b1n/AABDPoDxc_Qn-bQyAbzcdGuPa?dl=0) (Not yet Templatized)
+
+Digital Brand Guide (Coming Soon)
+
+[Whitepaper Templates](https://www.dropbox.com/sh/1t164zvvhb6rf48/AACVtRcLBhnBA1RdiIzRRVsVa?dl=0) (Not yet Templatized)
